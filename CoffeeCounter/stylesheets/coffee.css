@@ -130,8 +130,6 @@ img {
 .no-cups img {
 	-webkit-filter: sepia(50%) blur(3px);
 	filter: sepia(50%) blur(3px);
-	-webkit-transform: rotate(-2deg);
-	transform: rotate(-2deg);
 }
 
 .two-cups {
